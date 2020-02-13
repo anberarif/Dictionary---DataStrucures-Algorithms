@@ -184,7 +184,7 @@ ofstream myfile;
 	    }
 	    infile.close();
 	    myfile.open ("test.txt"); 
-        while (1) {
+        while (1) {  // initiating while loop
                 cout<<"\n1. Insertion\t2. Deletion\n";
                 cout<<"3. Searching\t4. Traversal\n";
                 cout<<"5. Exit\nEnter ur choice:";
