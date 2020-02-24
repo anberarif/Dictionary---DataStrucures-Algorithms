@@ -163,7 +163,7 @@ ofstream myfile;
         string sub;
         string start;
         
-	    ifstream infile;
+	    ifstream infile;  /* opening file for readind and writing */
 	    infile.open ("test.txt");
 			    
 	    string previousLine="";
