@@ -113,6 +113,8 @@ ofstream myfile;
         return;
   }
 
+
+/* searching for a word */
   void findElement(char *str) {
         struct BSTnode *temp = NULL;
         int flag = 0, res = 0;
