@@ -7,3 +7,4 @@ Apple Fruit
 song poetical composition
 xanthic yellowish
 IP Internet Protocol
+AR Augmented Reality
