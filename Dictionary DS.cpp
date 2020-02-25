@@ -153,7 +153,7 @@ ofstream myfile;
                 myfile << myNode->word<<" "<< myNode->meaning<<"\n";   
                 save(myNode->right);
         }
-        return;
+         return;
   }
 	
   int main() {
